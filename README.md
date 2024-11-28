@@ -82,7 +82,7 @@ mine1.html
     </head>
     <body bgcolor="orange">
     <h1 align="center">
-     <font color="violet"><b>VADALUR</b></font>
+     <font color="violet"><b>NEYVELI</b></font>
     </h1>
     <h3 align="center">
     <font color="blue"><b>MINE-IA</b></font>
@@ -105,7 +105,7 @@ mine2.html
     </head>
     <body bgcolor="green">
     <h1 align="center">
-     <font color="black"><b>VADALUR</b></font>
+     <font color="black"><b>NEYVELI</b></font>
     </h1>
     <h3 align="center">
     <font color="blue"><b>MINE-2</b></font>
@@ -127,7 +127,7 @@ god.html
     </head>
     <body bgcolor="violet">
     <h1 align="center">
-     <font color="pink"><b>VADALUR</b></font>
+     <font color="pink"><b>VADAKUMELUR</b></font>
     </h1>
     <h3 align="center">
     <font color="white"><b>VELUDAYANPATTU TEMPLE</b></font>
@@ -146,14 +146,11 @@ god.html
 ```
 
 # OUTPUT
-![alt text](6.png)
+![alt text](newmap.png)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
 ![alt text](4.png)
 ![alt text](5.png)
-
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
